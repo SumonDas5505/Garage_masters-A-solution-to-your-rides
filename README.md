@@ -1,7 +1,7 @@
 🚗 # GarageMaster – A Solution to Your Rides 🛠️
 Overview 📖
 
-GarageMaster is an e‑commerce platform built by CSE327 Group 2 students to make purchasing car and bike modification parts easier. The project includes a front‑end website with features such as product catalog, search and category filtering, custom package builder, shopping cart with currency conversion, voucher system, user authentication and more. A separate research notebook explores a hybrid quantum–classical neural network using Qiskit and PyTorch. Throughout the project the team applied several software design patterns to improve code maintainability and extensibility.
+GarageMaster is an e‑commerce platform built to make purchasing car and bike modification parts easier. The project includes a front‑end website with features such as product catalog, search and category filtering, custom package builder, shopping cart with currency conversion, voucher system, user authentication and more. A separate research notebook explores a hybrid quantum–classical neural network using Qiskit and PyTorch. Throughout the project the team applied several software design patterns to improve code maintainability and extensibility.
 
 Features ✨
 
